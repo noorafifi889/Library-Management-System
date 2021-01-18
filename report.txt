@@ -1,0 +1,77 @@
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
++-+-+-+-+Books+-+-+-+
++-+-+-+-+-+-+-+-+-+-
+
+iSBN : 123
+BookName : java
+Category : program
+Publisher: kofig
+EditionYear: 2013
+Author: 
+IdentityNum: 123456789
+Name: testa
+Gender: m
+Phone: 0592222222
+Email: a@a.com
+Workplacehome
+NumberOfCopies: 4
+price: 10.0
++-+-+-
+ Student that buy book
++-+-+-
+
+IdentityNum: 123456879
+Name: dalia
+Gender: f
+Phone: 05924444444
+ ID: 147
+Magorit
+Budget140.0
++-+-+-+-+-+-+-+-+-+-
+
+iSBN : 124
+BookName : c++
+Category : program
+Publisher: kofit
+EditionYear: 2015
+Author: 
+IdentityNum: 12354688
+Name: testb
+Gender: m
+Phone: 05926666666
+Email: xb@xb.com
+Workplacecollage
+NumberOfCopies: 5
+price: 12.0
++-+-+-
+ Student that buy book
++-+-+-
+
+IdentityNum: 222333
+Name: noor
+Gender: m
+Phone: 0213465
+ ID: 146
+MagorIT
+Budget38.0
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+--- + All Student + ---
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+IdentityNum: 123456879
+Name: dalia
+Gender: f
+Phone: 05924444444
+ ID: 147
+Magorit
+Budget140.0
++-+-+-+-+-+-+-+-+-+-
+
+IdentityNum: 222333
+Name: noor
+Gender: m
+Phone: 0213465
+ ID: 146
+MagorIT
+Budget38.0
++-+-+-+-+-+-+-+-+-+-
