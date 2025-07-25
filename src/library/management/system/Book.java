@@ -13,7 +13,7 @@ public class Book {
     private double price;
     private Student[] students;
 
-    public Book() {
+    public Book() { 
     }
 
     public Book(String iSBN, String name, String category, String publisher, String editionYear, Author author, int numberOfCopies, double price) {
@@ -119,7 +119,8 @@ public class Book {
             String category = in.next();
             System.out.print("Enter Book publisher: ");
             String publisher = in.next();
-            System.out.print("Enter Book editionYear: ");
+            System.out.print("Enter Book editionYear:  ");
+
             String editionYear = in.next();
             System.out.print("Enter Book numberOfCopies: ");
             int numberOfCopies = in.nextInt();
